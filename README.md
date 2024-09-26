@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Irenempax
+- 👋 Hi, I’m @Irene
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning mobile appplication
+- 🌱 I’m currently doing machine learning
 - 💞️ I’m looking to collaborate on any task regarding technology
 - 📫 How to reach me on my email: irenempapalika@gmail.com
 
