@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irene
 - 👀 I’m interested in programming
-- 🌱 I’m currently doing machine learning
+- 🌱 I’m currently doing Data analysis
 - 💞️ I’m looking to collaborate on any task regarding technology
 - 📫 How to reach me on my email: irenempapalika@gmail.com
 
